@@ -1,0 +1,1 @@
+export const REGEX_IP = /\d{0,3}\.\d{0,3}\.\d{0,3}\.\d{0,3}/g

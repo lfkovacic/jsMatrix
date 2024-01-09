@@ -4,4 +4,8 @@ export class DataTool {
         return matchesRaw.map(match => `${match}`);
     }
 
+    static removeDuplicates(data) {
+        return [...new Set(data)];
+    }
+
 }
