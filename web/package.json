@@ -1,0 +1,29 @@
+{
+  "name": "js_matrix",
+  "version": "0.0.1",
+  "homepage": ".",
+  "private": true,
+  "dependencies": {
+    "craco": "^0.0.3",
+    "craco-less": "^3.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.1",
+    "yarn": "^1.22.21"
+  },
+  "scripts": {
+    "start": "craco start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
