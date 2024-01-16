@@ -1,7 +1,7 @@
 {
   "name": "js_matrix",
   "version": "0.0.1",
-  "homepage": ".",
+  "homepage": "./jsMatrix",
   "private": true,
   "dependencies": {
     "craco": "^0.0.3",
