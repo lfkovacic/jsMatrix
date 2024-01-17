@@ -1,11 +1,16 @@
-.content{
+.content {
     width: 100%;
+}
+
+.main {
+    margin: 8px;
 }
 
 body {
     box-sizing: border-box;
     color: #0f0;
     background-color: #000;
+    margin: 0
 }
 
 input {
@@ -16,11 +21,15 @@ input {
     height: 40px;
     margin: 8px;
 }
-div {
-    margin: 8px;
-}
+
 label {
     margin-top: 4px;
+}
+
+.section {
+    box-sizing: border-box;
+    margin: 8px;
+    margin-bottom: 16px;
 }
 
 button {
@@ -31,6 +40,7 @@ button {
 }
 
 td {
+    width: 100%;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
